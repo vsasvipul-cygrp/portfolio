@@ -1,3 +1,7 @@
+body {
+  background-color: #f7f7f7;
+  margin-top: 20px;
+}
 /* ************************************** */
 /* HEADER */
 /* ************************************** */
@@ -143,11 +147,6 @@ mark {
 }
 .dark-color {
   color: #20247b;
-}
-
-body {
-  background-color: #f7f7f7;
-  margin-top: 20px;
 }
 /* ************************************** */
 /* TIMELINE */
