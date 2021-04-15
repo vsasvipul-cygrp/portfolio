@@ -15,5 +15,13 @@
 }( jQuery ) );
 
 document.getElementById("github_btn").onclick = function () {
-  location.href = "https://www.facebook.com";
+  location.href = "https://github.com/vsasvipul0605";
+};
+
+document.getElementById("linkedin_btn").onclick = function () {
+  location.href = "https://github.com/vsasvipul0605";
+};
+
+document.getElementById("twitter_btn").onclick = function () {
+  location.href = "https://github.com/vsasvipul0605";
 };
