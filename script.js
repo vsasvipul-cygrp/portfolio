@@ -13,3 +13,7 @@
   });
   
 }( jQuery ) );
+
+document.getElementById("github_btn").onclick = function () {
+  location.href = "https://www.facebook.com";
+};
