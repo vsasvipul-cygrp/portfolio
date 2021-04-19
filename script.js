@@ -13,7 +13,7 @@
   });
   
 }( jQuery ) );
-
+ 
 document.getElementById("github_btn").onclick = function () {
   location.href = "https://github.com/vsasvipul0605";
 };
